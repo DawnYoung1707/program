@@ -1,0 +1,7 @@
+ <view class="bg" >
+    <image class="bg-image" mode="scaleToFill"></image>
+  </view>
+<text>METAL Pico 2</text>
+<camera device-position="back" flash="off" style="width: 100%; height: {{ht}}"></camera>
+<button size='mini' type='primary' bindtap='taking'>拍照</button>
+<button size='mini' type='default' bindtap='shop'>更多相机</button>

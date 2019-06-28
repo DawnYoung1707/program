@@ -1,0 +1,5 @@
+<camera style=" height:100%; height:{{ht}};">
+<cover-view>
+<button type='primary' size='mini'>拍照📷</button>
+</cover-view>
+</camera>

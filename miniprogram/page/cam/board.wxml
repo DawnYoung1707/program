@@ -1,0 +1,18 @@
+<view class="bg">
+<image class="bg-image" mode='ScaleToFill'></image>
+</view>
+
+<text>Pico 相机商店</text>
+<image src="line.png"  class='line' width='{{wht}}'></image>
+<view>
+<text>Metal 金属相机 
+此相机模仿了金属光泽。</text>
+<button type='warn' size='mini' bindtap='metal'>打开</button>
+<text>Wooden 木制相机
+木材的质感。</text>
+
+<button type='warn' size='mini' bindtap='wooden'>打开</button>
+</view>
+<view>
+<button bindtap='glass'>glass</button>
+</view>

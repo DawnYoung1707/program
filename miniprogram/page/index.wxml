@@ -1,0 +1,13 @@
+ <view class="bg" >
+    <image class="bg-image" mode="scaleToFill"></image>
+  </view>
+
+
+<text>PICO WOODEN CAMERA</text>
+<camera device-position="back" style="width: 100%; height:{{ht}}"></camera>
+
+<button size='mini'  type='primary' bindtap='took'>拍照</button>
+
+<button size='mini' type='warn' bindtap='login'>切换相机</button>
+<button size='mini' plain='true' bindtap='share'>分享</button>
+

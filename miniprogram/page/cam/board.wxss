@@ -1,0 +1,23 @@
+.bg{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:url('https://coding-net-production-file-ci.codehub.cn/02e961e0-9709-11e9-b851-391c9f42a100.jpg?sign=9eT3uhoY7fu3jainddOZGaKJImlhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTYxNjU2MTE2JnQ9MTU2MTQ0MDExNiZyPTQ2NTMwMzgzJmY9LzAyZTk2MWUwLTk3MDktMTFlOS1iODUxLTM5MWM5ZjQyYTEwMC5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==') 
+no-repeat #000000;
+background-size:cover;
+z-index:-1;
+}
+
+.bg-img{
+    width : 100%;
+    height : 100%;
+}
+.line{
+  height: 2px;
+}
+.ico{
+  height: 200px;
+  width: 400px;
+}
